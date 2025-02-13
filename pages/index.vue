@@ -4,6 +4,8 @@ import Main from '~/components/Section_1/Main/Main.vue';
 import MainSection2 from '~/components/Section_2/Main/MainSection2.vue';
 import MainSection3 from '~/components/Section_3/Main/MainSection3.vue';
 import MainSection4 from '~/components/Section_4/Main/MainSection4.vue';
+import MainSection5 from '~/components/Section_5/Main/MainSection5.vue';
+import MainSection6 from '~/components/Section_6/Main/MainSection6.vue';
 </script>
 
 <template>
@@ -21,6 +23,9 @@ import MainSection4 from '~/components/Section_4/Main/MainSection4.vue';
     <MainSection2 />
     <MainSection3/>
     <MainSection4/>
+    <MainSection5/>
+    <MainSection6/>
+    
   </div>
 </template>
 
