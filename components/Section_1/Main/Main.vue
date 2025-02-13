@@ -28,7 +28,7 @@
         text-white
         font-black
         bg-linear-to-r bg-primary-blue-300 to-secondary-purple-300
-        " type="button">Entra em contato</button>
+        " type="button">Entrar em contato</button>
     </section>
     
     <section class="py-10">

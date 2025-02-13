@@ -6,8 +6,14 @@
   <div class="">
     <section class="px-23 flex items-center">
 
-      <img class="w-[10%]" src="../../img/logotipo animado PINCODES (2) 1.png" alt="">
-      <ul class="space-x-20 flex ml-80">
+      <img class="w-[15%]" src="../../img/logotipo animado PINCODES (2) 1.png" alt="">
+      <ul class="
+        space-x-20 
+        flex 
+        ml-80
+        text-2xl
+        font-light
+        ">
         <li>Home</li>
         <li>Serviços</li>
         <li>Portfólio</li>

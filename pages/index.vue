@@ -8,6 +8,7 @@ import MainSection5 from '~/components/Section_5/Main/MainSection5.vue';
 import MainSection6 from '~/components/Section_6/Main/MainSection6.vue';
 import MainSection7 from '~/components/Section_7/Main/MainSection7.vue';
 import MainSection8 from '~/components/Section_8/Main/MainSection8.vue';
+import Footer from '~/components/Section_9/Footer/Footer.vue';
 </script>
 
 <template>
@@ -29,6 +30,7 @@ import MainSection8 from '~/components/Section_8/Main/MainSection8.vue';
     <MainSection6/>
     <MainSection7/>
     <MainSection8/>
+    <Footer/>
   </div>
 </template>
 
